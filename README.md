@@ -117,7 +117,7 @@ Data Modeling in Power BI
 
 
 ### Overview Dashboard
-![Overview](Images/dashboard.png)
+![Overview](Images/Dashboard.png)
 
 
 ### Tooltip View
